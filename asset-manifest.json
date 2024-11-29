@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dropperFrontend/static/css/main.ad37d901.css",
+    "main.js": "/dropperFrontend/static/js/main.b4a8f6bc.js",
+    "index.html": "/dropperFrontend/index.html",
+    "main.ad37d901.css.map": "/dropperFrontend/static/css/main.ad37d901.css.map",
+    "main.b4a8f6bc.js.map": "/dropperFrontend/static/js/main.b4a8f6bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad37d901.css",
+    "static/js/main.b4a8f6bc.js"
+  ]
+}
